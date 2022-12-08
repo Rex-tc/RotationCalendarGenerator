@@ -5,7 +5,7 @@ generate .ics files for the fun (and absolutely tedious) rotating schedules
 
 I'm assuming you know how to use GitHub. If not then here:
 
-## Download Steps
+### Download Steps
 
 1. Click above link
 2. Find latest release
