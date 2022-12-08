@@ -3,6 +3,15 @@ generate .ics files for the fun (and absolutely tedious) rotating schedules
 
 ### [Download](https://github.com/Rex-tc/RotationCalendarGenerator/releases/tag/Release)
 
+I'm assuming you know how to use GitHub. If not then here:
+
+## Download Steps
+
+1. Click above link
+2. Find latest release
+3. Find "Assets" Section
+4. Click the "RotationCalendarGeneratorx.y.z.jar" file
+
 
 ## Historical Changelog
 
