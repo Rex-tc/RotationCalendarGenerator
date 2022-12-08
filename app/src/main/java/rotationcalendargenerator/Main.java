@@ -19,10 +19,10 @@ import javax.swing.JLabel;
 
 public class Main implements ActionListener, ComponentListener {
     //TODO: VERSION OF THIS PIECE OF CRAP
-    public static final String VERSION = "2.0.3";
+    public static final String VERSION = "2.1";
 
     public static final String[] CHANGELOG = {
-        "removed Main.getVersion()"
+        "Corrected Save File menu file filter"
     };
 
     public static final int ROOM = 20;
