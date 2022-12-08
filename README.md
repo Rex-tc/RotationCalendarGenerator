@@ -1,7 +1,7 @@
 # RotationCalendarManager
 generate .ics files for the fun (and absolutely tedious) rotating schedules
 
-### [Download](https://github.com/Rex-tc/RotationCalendarManager/releases/tag/Release)
+### [Download](https://github.com/Rex-tc/RotationCalendarGenerator/releases/tag/Release)
 
 
 ## Historical Changelog
