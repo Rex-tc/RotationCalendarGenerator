@@ -16,15 +16,10 @@ I'm assuming you know how to use GitHub. If not then here:
 ## Historical Changelog
 
 ### 1.1
-
 * Added a changelog (lol)
-
 * Changelog is accessible through button in about menu
-
 * Main menu will now be disposed when "Start" is clicked
-
 * Made it actually look ok on Windows. aka text not clipping out of window
-
 * Removed redundant code in menu. Theoretically this should make it faster but in practice it won't change much
 
 
