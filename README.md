@@ -50,3 +50,8 @@ Even smaller code change. added method getVersion()
 ### 2.0.3
 
 removed Main.getVersion()
+
+
+### 2.1
+
+Corrected Save File menu file filter
