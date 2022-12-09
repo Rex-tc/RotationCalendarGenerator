@@ -17,7 +17,7 @@ import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JTextField;
 
-public class UserInput implements Runnable{
+public class UserInput implements Runnable {
     private Thread t;
     private String threadName;
 
