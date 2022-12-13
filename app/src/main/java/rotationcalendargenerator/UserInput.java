@@ -387,7 +387,7 @@ public class UserInput implements Runnable {
 
     private JLabel[] ruleArrNames = new JLabel[4];
 
-    private JComboBox[] ruleBoxes = new JComboBox[4];
+    private JComboBox<String>[] ruleBoxes = new JComboBox[4];
 
     private String[] rules = {"Every Weekday", "Odd Rotation Days Only", "Even Rotation Days Only"};
 
@@ -396,7 +396,7 @@ public class UserInput implements Runnable {
         framey += 30;
         frame.getContentPane().add(specialRules);
         for (int i = 0; i < 4; i++) {
-            ruleBoxes[i] = new JComboBox(rules);
+            ruleBoxes[i] = new JComboBox<String>(rules);
             ruleBoxes[i].setSelectedIndex(0);
             if (!Main.arrNames[i].equals("")) {
                 ruleArrNames[i] = new JLabel(Main.arrNames[i]);
