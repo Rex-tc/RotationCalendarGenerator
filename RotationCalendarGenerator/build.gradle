@@ -14,7 +14,7 @@ plugins {
 jar {
     manifest {
         attributes (
-            'Main-Class': 'rotationcalendargenerator.Main'
+            'Main-Class': 'RotationCalendarGenerator.Main'
         )
     }
 }
@@ -30,11 +30,13 @@ dependencies {
 
     // This dependency is used by the application.
     implementation 'com.google.guava:guava:30.1.1-jre'
+
+    implementation 'net.sourceforge.htmlunit:htmlunit:2.51.0'
 }
 
 application {
     // Define the main class for the application.
-    mainClass = 'rotationcalendargenerator.Main'
+    mainClass = 'RotationCalendarGenerator.Main'
 }
 
 tasks.named('test') {
